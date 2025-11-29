@@ -1,4 +1,5 @@
-##LIBRARY_MANAGMENT
+LIBRARY_MANAGMENT
+
 This is a console-based **Library Management System** project written in **C**. It uses file handling to store book and issue records persistently.
 
 ## Project Overview
